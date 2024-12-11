@@ -51,5 +51,13 @@ And the [quantized mistral model](https://huggingface.co/TheBloke/Mistral-7B-Ins
    1. ```python3 database_operations.py``` This will initialize the sqlite database for the chat sessions.
    2. ```streamlit run app.py```
 
+## Collaborators
+
+This project was developed locally with contributions from:
+
+- [Abhishek Puri](https://github.com/puri-abhishek)
+- [Kasmik Mohanty](https://github.com/kasmikmohanty)
+- [Sanjog Das](https://github.com/Sanjogdas1718)
+
 ## Contribution
 Feel free to fork the repository and submit pull requests for improvements or feature additions.
