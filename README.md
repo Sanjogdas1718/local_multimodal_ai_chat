@@ -47,9 +47,9 @@ And the [quantized mistral model](https://huggingface.co/TheBloke/Mistral-7B-Ins
 
 6. **Optional - Change Profile Pictures**: Place your user_image.pnd and/or bot_image.png inside the chat_icons folder.
 
-## Contribution
-Feel free to fork the repository and submit pull requests for improvements or feature additions.
-
 7. **Enter commands in terminal**:
    1. ```python3 database_operations.py``` This will initialize the sqlite database for the chat sessions.
    2. ```streamlit run app.py```
+
+## Contribution
+Feel free to fork the repository and submit pull requests for improvements or feature additions.
